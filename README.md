@@ -19,4 +19,4 @@ The Tracks simulator supports students in observing and making sense of the simi
 
 ## Information for Developers
 
-I wrote this application when I was a kid! So I'm sorry about the poor naming conventions and code quality. 
+I wrote this application when I was a little kid! So I'm sorry about the poor naming conventions and code quality. 
