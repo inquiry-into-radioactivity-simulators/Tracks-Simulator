@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: ee94a7e4d3942454ea51902180962091
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Scene_unity_1
+    100004: Scene_unity_1_001
+    100006: Scene_unity_1_002
+    100008: Scene_unity_1_003
+    100010: Scene_unity_1_004
+    100012: Scene_unity_1_005
+    100014: Scene_unity_1_006
+    100016: Scene_unity_1_007
+    100018: Scene_unity_1_008
+    100020: Scene_unity_1_009
+    100022: Scene_unity_1_010
+    100024: Scene_unity_1_011
+    100026: Scene_unity_2
+    100028: Scene_unity_2_001
+    400000: //RootNode
+    400002: Scene_unity_1
+    400004: Scene_unity_1_001
+    400006: Scene_unity_1_002
+    400008: Scene_unity_1_003
+    400010: Scene_unity_1_004
+    400012: Scene_unity_1_005
+    400014: Scene_unity_1_006
+    400016: Scene_unity_1_007
+    400018: Scene_unity_1_008
+    400020: Scene_unity_1_009
+    400022: Scene_unity_1_010
+    400024: Scene_unity_1_011
+    400026: Scene_unity_2
+    400028: Scene_unity_2_001
+    2300000: Scene_unity_1
+    2300002: Scene_unity_1_001
+    2300004: Scene_unity_1_002
+    2300006: Scene_unity_1_003
+    2300008: Scene_unity_1_004
+    2300010: Scene_unity_1_005
+    2300012: Scene_unity_1_006
+    2300014: Scene_unity_1_007
+    2300016: Scene_unity_1_008
+    2300018: Scene_unity_1_009
+    2300020: Scene_unity_1_010
+    2300022: Scene_unity_1_011
+    2300024: Scene_unity_2
+    2300026: Scene_unity_2_001
+    3300000: Scene_unity_1
+    3300002: Scene_unity_1_001
+    3300004: Scene_unity_1_002
+    3300006: Scene_unity_1_003
+    3300008: Scene_unity_1_004
+    3300010: Scene_unity_1_005
+    3300012: Scene_unity_1_006
+    3300014: Scene_unity_1_007
+    3300016: Scene_unity_1_008
+    3300018: Scene_unity_1_009
+    3300020: Scene_unity_1_010
+    3300022: Scene_unity_1_011
+    3300024: Scene_unity_2
+    3300026: Scene_unity_2_001
+    4300000: Scene.unity_1.008
+    4300002: Scene.unity_1.007
+    4300004: Scene.unity_1.006
+    4300006: Scene.unity_1.005
+    4300008: Scene.unity_1.004
+    4300010: Scene.unity_1.003
+    4300012: Scene.unity_1.002
+    4300014: Scene.unity_1.001
+    4300016: Scene.unity_1
+    4300018: Scene.unity_2.001
+    4300020: Scene.unity_2
+    4300022: Scene.unity_1.009
+    4300024: Scene.unity_1.010
+    4300026: Scene.unity_1.011
+    4300028: Scene_unity_1_011
+    4300030: Scene_unity_1_010
+    4300032: Scene_unity_1_009
+    4300034: Scene_unity_1_008
+    4300036: Scene_unity_1_007
+    4300038: Scene_unity_1_006
+    4300040: Scene_unity_1_005
+    4300042: Scene_unity_1_004
+    4300044: Scene_unity_1_003
+    4300046: Scene_unity_1_002
+    4300048: Scene_unity_1_001
+    4300050: Scene_unity_1
+    4300052: Scene_unity_2_001
+    4300054: Scene_unity_2
+    7400000: Default Take
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArmOnly__armonly_psd
+    second: {fileID: 2100000, guid: 45ea6f181d8b2459c887f1f22ec08567, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default-Diffuse
+    second: {fileID: 2100000, guid: 5d4c4ee899297f749905e6c9fe5a3053, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default-Diffuse_001__hammer_tif
+    second: {fileID: 2100000, guid: 4f97900ecada84da79fd0f3e1f1a87ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cup-no_name
+    second: {fileID: 2100000, guid: ea97746226da6b244acb5a048ec3e517, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cup-no_name_1
+    second: {fileID: 2100000, guid: a0f1313491e6547479cf7ff0f623aef1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cup-water
+    second: {fileID: 2100000, guid: dabb3b3387a58c4408872e0c9128bf2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer-faceset_gripma
+    second: {fileID: 2100000, guid: 6661ce8262dd9b946a6faaf45524cc15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer-faceset_gripma__hammer_tif
+    second: {fileID: 2100000, guid: 1addc299e5c7d49f1b5d4160cc36f0a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer-faceset_hammer
+    second: {fileID: 2100000, guid: 1c1d9548b80d41842872947690d8d323, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer-faceset_hammer__hammer_tif
+    second: {fileID: 2100000, guid: c94297df46cbf40a69513a3b89877dcf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
