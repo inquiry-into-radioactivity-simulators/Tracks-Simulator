@@ -1,6 +1,6 @@
 # Inquiry Into Radioactivity - Tracks Simulator
 
-###[Try it out now in your web browser!!](https://inquiry-into-radioactivity-simulators.github.io/Tracks-Simulator/)
+### [Try it out now in your web browser!!](https://inquiry-into-radioactivity-simulators.github.io/Tracks-Simulator/)
 
 ![](ReadMe/Screenshot1.png)
 
