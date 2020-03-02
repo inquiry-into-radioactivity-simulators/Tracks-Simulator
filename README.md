@@ -4,8 +4,6 @@
 
 ![](ReadMe/Screenshot1.png)
 
-![](ReadMe/Screenshot2.png)
-
 This is a Unity3D project. To open it, you will need:
 
  - Unity3D 2018.4.17 LTS
