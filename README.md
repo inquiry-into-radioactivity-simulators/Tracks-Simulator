@@ -10,6 +10,10 @@ For more information, see [Supplementary Materials for Radiation and Atomic Lite
 
 The Tracks simulator supports students in observing and making sense of the similarities and differences in alpha, beta, and gamma radiation and enables story-telling about the effects of radiation at different size scales. It also promotes understanding of the vast number of ionizations caused by a single alpha or beta and helps students realize that alphas interact much more strongly with matter than betas do. 
 
+#### Controls
+
+ - WASD or Arrow Keys - Move the radiation source
+
 ## Information for Developers
 
 This is a Unity3D project. To open it, you will need:
